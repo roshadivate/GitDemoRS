@@ -13,6 +13,7 @@ public class AppTest
      * Rigorous Test :-)
      * 123
      * 456
+     * 789
      */
     @Test
     public void shouldAnswerWithTrue()
