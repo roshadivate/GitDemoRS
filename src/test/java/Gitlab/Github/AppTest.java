@@ -11,9 +11,8 @@ public class AppTest
 {
     /**
      * Rigorous Test :-)
-     * 123
-     * 456
-     * 789
+     * abc.
+     * 
      */
     @Test
     public void shouldAnswerWithTrue()
