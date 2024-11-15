@@ -11,12 +11,13 @@ public class AppTest
 {
     /**
      * Rigorous Test :-)
-     * 
+     * 123
      * 
      */
     @Test
     public void shouldAnswerWithTrue()
     {
+        assertTrue( true );
         assertTrue( true );
     }
 }
